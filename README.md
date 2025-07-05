@@ -12,7 +12,7 @@ I love coding, building web applications, and exploring new technologies. Passio
   <a href="https://www.dev.to/dikshant29" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
   </a>
-  <a href="https://www.github.com/Dikshant-Koriwar" target="_blank">
+  <a href="https://www.github.com/Dikshantk29" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
   <a href="https://hashnode.com/@dikshant25.hashnode.dev" target="_blank">
