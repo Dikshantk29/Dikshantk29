@@ -28,16 +28,4 @@ I love coding, building web applications, and exploring new technologies. Passio
 
 ---
 
-## 🏆 GitHub Stats  
-
-<a href="http://www.github.com/Dikshantk29">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dikshant-Koriwar&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Dikshant-Koriwar's GitHub stats" />
-</a>
-
-<a href="https://github.com/Dikshantk29">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant-Koriwar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
-
----
-
 🚀 **Let's build something amazing together!**  
