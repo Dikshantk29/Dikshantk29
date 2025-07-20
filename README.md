@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dikshant Koriwar!  
 
-🚀 **Full-Stack Developer **  
+🚀 Full-Stack Developer 
 
 I love coding, building web applications, and exploring new technologies. Passionate about **Web Development, JavaScript, MERN Stack, and Open Source**.
 
