@@ -34,24 +34,22 @@ Currently, I am deep-diving into **Data Structures & Algorithms (DSA)** to enhan
 </p>
 
 ---
-
 ## 🔗 Connect with Me
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  <a href="https://www.dev.to/dikshant29" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-colored.svg" width="32" height="32" />
   </a>
   <a href="https://www.github.com/Dikshantk29" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.x.com/Dikshantk29" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.dev.to/dikshant29" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-colored.svg" width="32" height="32" />
   </a>
   <a href="https://hashnode.com/@dikshant25.hashnode.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-colored.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-colored.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.x.com/Dikshantk29" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-colored.svg" width="32" height="32" />
   </a>
 </p>
 
