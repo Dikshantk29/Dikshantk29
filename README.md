@@ -27,32 +27,14 @@ Currently, I am deep-diving into **Data Structures & Algorithms (DSA)** to enhan
 - 🐳 Learning Deployment & Cloud basics.
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dikshantk29&show_icons=true&theme=radical" alt="Dikshant's Stats" width="400" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.github.com/Dikshantk29" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.x.com/Dikshantk29" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.dev.to/dikshant29" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
-  </a>
-  <a href="https://hashnode.com/@dikshant25.hashnode.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
-  </a>
+<a href="https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.github.com/Dikshantk29" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.x.com/Dikshantk29" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://www.dev.to/dikshant29" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+<a href="https://hashnode.com/@dikshant25.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
 </p>
 
 ---
