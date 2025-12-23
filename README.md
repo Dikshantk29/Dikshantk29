@@ -82,12 +82,17 @@ Currently deep-diving into **Data Structures & Algorithms** 🧩 while building 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<a href="https://github.com/Dikshantk29">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dikshantk29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dikshantk29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+<div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dikshantk29&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dikshantk29&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshantk29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dikshantk29&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
