@@ -82,12 +82,13 @@ Currently deep-diving into **Data Structures & Algorithms** 🧩 while building 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dikshantk29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshantk29&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" height="170"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dikshantk29&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshantk29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dikshantk29&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshantk29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </div>
 
 ---
