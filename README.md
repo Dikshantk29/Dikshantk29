@@ -15,22 +15,23 @@
 
 ## 🚀 About Me
 
-```java
-public class DikshantKoriwar {
-    private String role = "Java Full Stack Developer";
-    private String education = "IT Graduate (2025)";
-    private String currentFocus = "Building scalable web applications";
-    
-    public void displayPassion() {
-        System.out.println("Passionate about clean code & problem-solving!");
-    }
-}
-```
+<div align="center">
 
-I'm a motivated **Information Technology Graduate** with a strong passion for building **scalable, high-performance web applications**. I specialize in the **Java Ecosystem**, focusing on backend logic, database management, and modern front-end interfaces.
+### 👨‍💻 Dikshant Koriwar | Java Full Stack Developer
 
-Currently deep-diving into **Data Structures & Algorithms** 🧩 while building industry-standard projects that solve real-world problems.
+🎓 **IT Graduate (2025)** • 💻 **Backend Specialist** • 🧩 **DSA Enthusiast**
 
+</div>
+
+I'm a motivated **Information Technology Graduate** with a strong passion for building **scalable, high-performance web applications**. I specialize in the **Java Ecosystem**, focusing on backend logic with **Spring Boot**, database management with **MySQL**, and modern front-end interfaces using **React**.
+
+**What drives me:**
+- 🔧 Writing clean, maintainable code
+- 🚀 Solving complex problems with elegant solutions
+- 📚 Currently mastering Data Structures & Algorithms
+- 🌟 Building projects that make a real impact
+
+**Status:** 🟢 **Open to Entry-Level Java Developer Opportunities**
 ---
 
 ## 🛠️ Tech Stack
