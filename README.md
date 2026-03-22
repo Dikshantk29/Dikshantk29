@@ -99,7 +99,7 @@ I build end-to-end web applications using **Spring Boot** on the backend, **Reac
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:dikshantkoriwar.work@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
