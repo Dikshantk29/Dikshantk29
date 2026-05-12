@@ -79,7 +79,6 @@ I build end-to-end web applications using **Spring Boot** on the backend, **Reac
   ![GitHub Streak](https://streak-stats.demolab.com?user=Dikshantk29&theme=tokyonight&hide_border=true)
 
 </div>
----
 
 <div align="center">
   <b>Looking for an entry-level role where I can contribute and grow fast. Let's connect!</b>
