@@ -79,17 +79,6 @@ I build end-to-end web applications using **Spring Boot** on the backend, **Reac
   ![GitHub Streak](https://streak-stats.demolab.com?user=Dikshantk29&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dikshantk29&theme=tokyo-night&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
