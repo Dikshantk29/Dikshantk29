@@ -21,11 +21,9 @@
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
-| **EventPulse** ✨ (Working) | Real-time event management platform with live notifications and user authentication — handles event creation, RSVP management, and JWT-based secure authentication | Spring Boot · React · MySQL · WebSocket | [Code](https://github.com/Dikshantk29/EventPulse) |
+| **EventPulse AI** ✨ (Active) | AI-powered alert management & incident response platform. Real-time incident triage with Google Gemini AI analysis, JWT authentication, async processing via Kafka, Redis caching, Prometheus monitoring | Java 54.6% · Spring Boot · React 27.8% · PostgreSQL · Kafka · Redis | [Code](https://github.com/Dikshantk29/eventpulse-ai) |
 | **BookMySeat** | Full-stack seat booking system for venues and events — implements CRUD operations with Hibernate ORM and real-time seat availability updates | Spring MVC · Hibernate · MySQL · JavaScript | [Code](https://github.com/Dikshantk29/BookMySeat) |
 | **BlogAPI** | RESTful API for blog management with user authentication and content management — supports CRUD operations for posts, comments, and user roles | Spring Boot · MySQL · REST API · JWT | [Code](https://github.com/Dikshantk29/BlogAPI) |
-
-> 💡 **Active Development** — EventPulse is currently in active development with new features being added regularly.
 
 ---
 
@@ -41,6 +39,11 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
