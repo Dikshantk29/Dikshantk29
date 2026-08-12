@@ -52,22 +52,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dikshantk29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dikshantk29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA"/>
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dikshantk29&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA)
-
-</div>
-
----
-
 <div align="center">
 
 **🟢 Available for Entry-Level Java Developer Roles**
