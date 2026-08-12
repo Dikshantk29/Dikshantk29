@@ -22,7 +22,7 @@
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
 | **EventPulse AI** ✨ (Active) | AI-powered alert management & incident response platform. Real-time incident triage with Google Gemini AI analysis, JWT authentication, async processing via Kafka, Redis caching, Prometheus monitoring | Java 54.6% · Spring Boot · React 27.8% · PostgreSQL · Kafka · Redis | [Code](https://github.com/Dikshantk29/eventpulse-ai) |
-| **BookMySeat** | Full-stack seat booking system for venues and events — implements CRUD operations with Hibernate ORM and real-time seat availability updates | Spring MVC · Hibernate · MySQL · JavaScript | [Code](https://github.com/Dikshantk29/BookMySeat) |
+| **BookMySeat** | Full-stack seat booking system for venues and events — implements CRUD operations with Hibernate ORM and real-time seat availability updates | Spring MVC · Hibernate · MySQL · JavaScript | [Code](https://github.com/Dikshantk29/BookMySeat](https://github.com/Dikshantk29/bookmyseat-backend.git) |
 | **BlogAPI** | RESTful API for blog management with user authentication and content management — supports CRUD operations for posts, comments, and user roles | Spring Boot · MySQL · REST API · JWT | [Code](https://github.com/Dikshantk29/BlogAPI) |
 
 ---
