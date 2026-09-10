@@ -1,65 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Dikshant%20Koriwar&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20·%20IT%20Graduate%202025&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+# Dikshant Koriwar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Spring+Boot+%C2%B7+React+%C2%B7+MySQL;Building+Scalable+REST+APIs;Open+to+Entry-Level+Java+Roles+%F0%9F%9F%A2" alt="Typing SVG" />
+### Java Backend / Full-Stack Developer
 
-<br/>
+**Java • Spring Boot • REST APIs • SQL • React**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dikshant-koriwar.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikshantkoriwar.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dikshantk29)
+I build backend-focused applications with clean APIs, authentication, database-driven workflows, and practical system design. Currently looking for **entry-level Java / Backend Developer opportunities** where I can contribute to real products and grow with an engineering team.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dikshantk29&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 🚀 Projects
-
-| Project | Description | Tech | Links |
-|--------|-------------|------|-------|
-| **EventPulse AI** ✨ (Active) | AI-powered alert management & incident response platform. Real-time incident triage with Google Gemini AI analysis, JWT authentication, async processing via Kafka, Redis caching, Prometheus monitoring | Java 54.6% · Spring Boot · React 27.8% · PostgreSQL · Kafka · Redis | [Code](https://github.com/Dikshantk29/eventpulse-ai) |
-| **BookMySeat** | Full-stack seat booking system for venues and events — implements CRUD operations with Hibernate ORM and real-time seat availability updates | Spring MVC · Hibernate · MySQL · JavaScript | [Code](https://github.com/Dikshantk29/bookmyseat-backend.git) |
-| **BlogAPI** | RESTful API for blog management with user authentication and content management — supports CRUD operations for posts, comments, and user roles | Spring Boot · MySQL · REST API · JWT | [Code](https://github.com/Dikshantk29/blog-app.git) |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dikshant-koriwar.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikshantkoriwar.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dikshantk29)
 
 </div>
 
 ---
 
+## 👋 About Me
+
+- 🎓 **B.E. in Information Technology** — Prof. Ram Meghe Institute of Technology & Research
+- 💻 Focused on **Java backend development and full-stack application development**
+- 🔧 Comfortable building **REST APIs, authentication flows, CRUD systems, and database-backed applications**
+- 🧠 Practicing **DSA and problem solving** with 150+ LeetCode problems solved
+- 🚀 Currently building **EventPulse AI**, an alert management and incident-response platform
+- 🎯 Looking for **Java Developer, Backend Developer, or Java Full-Stack Developer** roles
+
+---
+
+## 🚀 Featured Projects
+
+### ⚡ EventPulse AI
+**AI-powered alert management and incident-response platform**
+
+Designed around a production-style backend workflow where alerts are stored, processed asynchronously, analyzed with AI, and surfaced through a React dashboard.
+
+**Highlights:**
+- Spring Boot REST API with layered architecture
+- JWT authentication and role-based authorization
+- Apache Kafka for asynchronous alert/AI processing
+- Redis for caching frequently accessed data
+- PostgreSQL for persistent data storage
+- Google Gemini integration for AI-assisted incident analysis
+- Prometheus/Grafana for application observability
+- React frontend for alert tracking and incident workflows
+
+**Stack:** `Java 21` `Spring Boot` `Spring Security` `React` `PostgreSQL` `Kafka` `Redis` `Docker` `JWT` `Prometheus`
+
+➡️ **[View EventPulse AI](https://github.com/Dikshantk29/eventpulse-ai)**
+
+---
+
+### 🎟️ BookMySeat
+**Full-stack movie ticket booking application**
+
+A database-driven booking system covering the complete flow from browsing shows to seat selection and booking management.
+
+**Highlights:**
+- RESTful backend with Spring Boot and JPA/Hibernate
+- User registration and authentication
+- Role-based access for users and administrators
+- Movie, theater, screen, show, seat, and booking management
+- Interactive seat-selection workflow
+- Booking history and cancellation
+- SQL-backed relational data model
+
+**Stack:** `Java` `Spring Boot` `Spring Security` `JPA/Hibernate` `MySQL` `JavaScript` `REST API`
+
+➡️ **[View BookMySeat](https://github.com/Dikshantk29/bookmyseat-backend)**
+
+---
+
+### 📝 Blog API
+**REST API for blog and content management**
+
+Backend application focused on API design, authentication, authorization, and database operations.
+
+**Highlights:**
+- RESTful CRUD APIs for blog resources
+- JWT-based authentication
+- User roles and authorization
+- MySQL persistence with Spring Data JPA
+- Clean controller/service/repository separation
+- API testing with Postman
+
+**Stack:** `Java` `Spring Boot` `Spring Data JPA` `MySQL` `JWT` `REST API`
+
+➡️ **[View Blog API](https://github.com/Dikshantk29/blog-app)**
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend
+`Java` `Spring Boot` `Spring MVC` `Spring Security` `Spring Data JPA` `Hibernate` `REST APIs` `JWT` `Validation` `Exception Handling`
+
+### Databases
+`MySQL` `PostgreSQL` `SQL` `JDBC` `Database Design`
+
+### Frontend
+`React` `JavaScript` `HTML` `CSS`
+
+### Distributed Systems & Infrastructure
+`Apache Kafka` `Redis` `Docker` `Prometheus` `Grafana`
+
+### Development Tools
+`Git` `GitHub` `Postman` `IntelliJ IDEA` `VS Code` `Maven`
+
+---
+
+## 🧠 Problem Solving
+
+I actively practice DSA to improve algorithmic thinking and writing efficient, maintainable code.
+
+- **150+ LeetCode problems solved**
+- Arrays, Strings, Hashing
+- Linked Lists, Stack, Queue
+- Binary Search, Sorting
+- Recursion and basic problem-solving patterns
+
+➡️ **[DSA Practice](https://github.com/Dikshantk29/NeetCode150)**
+
+---
+
+## 🔨 What I'm Working On
+
+**EventPulse AI** — going deeper into production-oriented backend engineering:
+
+- Secure API design and authorization
+- Asynchronous processing with Kafka
+- Caching strategies with Redis
+- AI integration and reliable background processing
+- Observability and application monitoring
+- Testing, Docker, and deployment workflows
+
+My goal is to move beyond tutorial projects and understand **how real backend systems are designed, secured, tested, monitored, and scaled.**
+
+---
+
+## 💼 What I Bring to a Team
+
+- **Backend-first mindset** — I enjoy working with APIs, business logic, databases, and application architecture.
+- **End-to-end ownership** — I build features from database and API design through to frontend integration.
+- **Security awareness** — I understand authentication, JWT, password hashing, and role-based authorization.
+- **Problem-solving discipline** — Regular DSA practice has strengthened my approach to breaking down problems.
+- **Learning mindset** — I actively work with technologies such as Kafka, Redis, Docker, and observability tools to understand production systems.
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **entry-level Java, Backend, and Java Full-Stack opportunities**.
+
+- **LinkedIn:** [linkedin.com/in/dikshant-koriwar-3aa1b722a](https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/)
+- **Portfolio:** [dikshant-koriwar.vercel.app](https://dikshant-koriwar.vercel.app/)
+- **Email:** [dikshantkoriwar.work@gmail.com](mailto:dikshantkoriwar.work@gmail.com)
+- **GitHub:** [github.com/Dikshantk29](https://github.com/Dikshantk29)
+
 <div align="center">
 
-**🟢 Available for Entry-Level Java Developer Roles**
+### 🟢 Open to Java / Backend Developer Opportunities
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/)
-&nbsp;
-[![Send Email](https://img.shields.io/badge/Hire%20Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikshantkoriwar.work@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=100&section=footer" width="100%"/>
+**Thanks for visiting — feel free to explore my projects and code.**
 
 </div>
