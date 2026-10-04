@@ -1,67 +1,95 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Dikshant%20Koriwar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>Java Backend Developer
 
-# Dikshant Koriwar
-### Java Backend Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;SQL+%7C+Kafka+%7C+Redis+%7C+Docker;Building+scalable+backend+applications;Open+to+Java+%2F+Backend+opportunities" /><p>
+  <a href="https://github.com/Dikshantk29">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://dikshant-koriwar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:dikshantkoriwar.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p></div>---
 
-Java • Spring Boot • REST APIs • SQL • Kafka • React
+👨‍💻 About Me
 
-Entry-level Java / Backend Developer building secure, database-driven applications.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dikshant-koriwar.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikshantkoriwar.work@gmail.com)
-
-</div>
-
----
-
-## About
-- B.E. in Information Technology, Prof. Ram Meghe Institute of Technology & Research
-- 150+ LeetCode problems solved ([DSA practice](https://github.com/Dikshantk29/NeetCode150))
-- Open to **Java, Backend, and Java Full-Stack** roles
-
----
-
-## Projects
-
-### ⚡ [EventPulse AI](https://github.com/Dikshantk29/eventpulse-ai)
-AI-powered alert management and incident-response platform.
-- Spring Boot REST API with JWT auth and role-based access
-- Kafka for async processing, Redis for caching, PostgreSQL for storage
-- Gemini for AI incident analysis, Prometheus/Grafana for monitoring
-- React dashboard
-
-`Java 21` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `Docker` `React`
-
-### 🎟️ [BookMySeat](https://github.com/Dikshantk29/bookmyseat-backend)
-Full-stack movie ticket booking app.
-- Spring Boot + JPA/Hibernate with role-based access (user/admin)
-- Seat selection, booking history, and cancellation
-- Relational data model for movies, theaters, shows, and bookings
-
-`Java` `Spring Boot` `MySQL` `JavaScript`
-
-### 📝 [Blog API](https://github.com/Dikshantk29/blog-app)
-REST API for blog and content management.
-- JWT authentication and role-based authorization
-- Clean controller/service/repository layers, tested with Postman
-
-`Java` `Spring Boot` `JPA` `MySQL` `JWT`
+- 🎓 B.E. in Information Technology
+- ☕ Focused on Java Backend Development
+- 🚀 Building applications with Spring Boot & REST APIs
+- 🧩 150+ LeetCode problems solved
+- 💼 Open to Java / Backend / Java Full-Stack opportunities
 
 ---
 
-## Skills
-**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT
-**Databases:** MySQL, PostgreSQL, SQL
-**Infra:** Kafka, Redis, Docker, Prometheus, Grafana
-**Frontend:** React, JavaScript, HTML, CSS
-**Tools:** Git, Maven, Postman, IntelliJ IDEA
+🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,kafka,docker,react,js,html,css,git,github,maven,postman" />
+</p>---
+
+🚀 Featured Projects
+
+⚡ EventPulse AI
+
+AI-powered alert & incident-response platform
+
+"Java 21" "Spring Boot" "Kafka" "Redis" "PostgreSQL" "Docker" "React"
+
+- JWT authentication + role-based access
+- Kafka-based asynchronous processing
+- Redis caching & PostgreSQL persistence
+- Gemini-powered incident analysis
+- Prometheus/Grafana monitoring
+
+"View Project →" (https://github.com/Dikshantk29/eventpulse-ai)
 
 ---
 
-<div align="center">
+🎟️ BookMySeat
 
-### 🟢 Open to Java / Backend Developer roles
-[LinkedIn](https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/) • [Portfolio](https://dikshant-koriwar.vercel.app/) • [Email](mailto:dikshantkoriwar.work@gmail.com) • [GitHub](https://github.com/Dikshantk29)
+Movie ticket booking platform
 
-</div>
+"Java" "Spring Boot" "JPA/Hibernate" "MySQL" "JavaScript"
+
+- User/Admin role-based access
+- Movie, theater & show management
+- Seat selection and booking
+- Booking history & cancellation
+
+"View Project →" (https://github.com/Dikshantk29/bookmyseat-backend)
+
+---
+
+📝 Blog API
+
+REST API for content management
+
+"Java" "Spring Boot" "JPA" "MySQL" "JWT"
+
+- JWT authentication
+- Role-based authorization
+- Controller → Service → Repository architecture
+- REST APIs tested with Postman
+
+"View Project →" (https://github.com/Dikshantk29/blog-app)
+
+---
+
+📊 GitHub
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dikshantk29&show_icons=true&hide_border=true&rank_icon=github" height="160"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshantk29&hide_border=true" height="160"/></div>---
+
+<div align="center">🟢 Open to Java / Backend Developer Opportunities
+
+Java • Spring Boot • REST APIs • SQL • Kafka • Redis • Docker
+
+<a href="https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/">LinkedIn</a> •
+<a href="https://dikshant-koriwar.vercel.app/">Portfolio</a> •
+<a href="https://github.com/Dikshantk29">GitHub</a> •
+<a href="mailto:dikshantkoriwar.work@gmail.com">Email</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%"/></div>
