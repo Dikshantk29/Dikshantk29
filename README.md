@@ -1,12 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Dikshant%20Koriwar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>Java Backend Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;SQL+%7C+Kafka+%7C+Redis+%7C+Docker;Building+scalable+backend+applications;Open+to+Java+%2F+Backend+opportunities" /><p>
-  <a href="https://github.com/Dikshantk29">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dikshant-koriwar-3aa1b722a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a><div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Dikshant%20Koriwar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer&descSize=22&descAlignY=60&descColor=93C5FD" width="100%"/>
 
@@ -164,7 +156,7 @@ public class Dikshant {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dikshantk29&bg_color=0F172A&color=38BDF8&line=2563EB&point=FFFFFF&area=true&area_color=2563EB&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/2563EB/Dikshantk29" alt="Contribution chart" width="90%"/>
 
 </div>
 
@@ -199,3 +191,5 @@ public class Dikshant {
 <a href="mailto:dikshantkoriwar.work@gmail.com">Email</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="100%"/>
+
+</div>
