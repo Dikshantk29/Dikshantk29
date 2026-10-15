@@ -15,7 +15,6 @@
 
 <br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Dikshantk29.Dikshantk29&left_color=0F172A&right_color=2563EB" alt="Visitors"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square&logo=statuspage&logoColor=white"/>
 <img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-F59E0B?style=flat-square&logo=leetcode&logoColor=white"/>
 
