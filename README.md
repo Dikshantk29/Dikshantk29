@@ -1,9 +1,9 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Dikshant%20Koriwar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" alt="Dikshant Koriwar header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Dikshant%20Koriwar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAl[...]" alt="Header banner"/>
 
 <a href="https://github.com/Dikshantk29">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Java+%7C+Spring+Boot+Developer;Building+REST+APIs+%26+Backend+Systems;Learning+Microservices+%26+System+Design" alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Java+%7C+Spring+Boot+Deve[... ]" alt="Java | Spring Boot Developer"/>
 </a>
 
 <br/>
@@ -90,7 +90,7 @@ public class Dikshant {
 
 <div align="center">
 
-### 🎬 BookMySeat
+### 🎬 BookMyShow
 
 *Movie booking and ticketing platform*
 
@@ -108,7 +108,7 @@ public class Dikshant {
 - 💳 Booking history, status tracking, and cancellation
 - ⚙️ Backend services built with Spring Boot and REST APIs
 
-<a href="https://github.com/Dikshantk29/bookmyseat-backend"><img src="https://img.shields.io/badge/View_Project-%E2%86%92-2563EB?style=for-the-badge" alt="View BookMySeat project"/></a>
+<a href="https://github.com/Dikshantk29/bookmyshow"><img src="https://img.shields.io/badge/View_Project-%E2%86%92-2563EB?style=for-the-badge" alt="View BookMyShow project"/></a>
 
 <br/>
 
@@ -139,13 +139,13 @@ public class Dikshant {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dikshantk29&show_icons=true&hide_border=true&rank_icon=github&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=2563EB" alt="GitHub profile statistics" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dikshantk29&show_icons=true&hide_border=true&rank_icon=github&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=2563EB" alt="GitHub statistics"/>
 
-<img src="https://streak-stats.demolab.com/?user=Dikshantk29&hide_border=true&background=0F172A&ring=2563EB&fire=38BDF8&currStreakLabel=E2E8F0&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" alt="GitHub contribution streak" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Dikshantk29&hide_border=true&background=0F172A&ring=2563EB&fire=38BDF8&currStreakLabel=E2E8F0&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="GitHub streak stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshantk29&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Most used programming languages" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshantk29&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Most used programming languages" height="150"/>
 
 <br/><br/>
 
