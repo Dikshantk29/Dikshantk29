@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Dikshant%20Koriwar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer&descSize=22&descAlignY=60&descColor=93C5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Dikshant%20Koriwar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAl[...]
 
 <a href="https://github.com/Dikshantk29">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=%E2%98%95+Java+%7C+Spring+Boot+%7C+REST+APIs;%E2%9A%99%EF%B8%8F+Kafka+%7C+Redis+%7C+PostgreSQL+%7C+Docker;%F0%9F%9A%80+Building+scalable+backend+systems;%F0%9F%9F%A2+Open+to+Java+%2F+Backend+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=%E2%98%95+Java+%7C+Spring[...]
 </a>
 
 <br/>
@@ -78,48 +78,24 @@ public class Dikshant {
 
 <div align="center">
 
-### ⚡ EventPulse AI
-*AI-powered alert and incident-response platform*
-
-<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-</div>
-
-- 🔐 JWT authentication with role-based access control
-- 📨 Kafka-based asynchronous event processing
-- ⚡ Redis caching with PostgreSQL persistence
-- 🤖 Gemini-powered incident analysis
-- 📈 Prometheus and Grafana monitoring
-
-<a href="https://github.com/Dikshantk29/eventpulse-ai"><img src="https://img.shields.io/badge/View_Project-%E2%86%92-2563EB?style=for-the-badge"/></a>
-
-<br/>
-
-<div align="center">
-
-### 🎟️ BookMySeat
-*Movie ticket booking platform*
+### 🎬 BookMyShow
+*Movie booking and ticketing platform*
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 </div>
 
-- 👥 User and Admin role-based access
-- 🎬 Movie, theater and show management
-- 💺 Seat selection and booking flow
-- 🧾 Booking history and cancellation
+- 🎭 User and admin flows for movie discovery and booking
+- 🕒 Showtime, seat layout, and reservation management
+- 💳 Booking history, status tracking, and cancellation flow
+- ⚙️ Backend services built with Spring Boot and REST APIs
 
-<a href="https://github.com/Dikshantk29/bookmyseat-backend"><img src="https://img.shields.io/badge/View_Project-%E2%86%92-2563EB?style=for-the-badge"/></a>
+<a href="https://github.com/Dikshantk29/bookmyshow"><img src="https://img.shields.io/badge/View_Project-%E2%86%92-2563EB?style=for-the-badge"/></a>
 
 <br/>
 
@@ -148,8 +124,8 @@ public class Dikshant {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dikshantk29&show_icons=true&hide_border=true&rank_icon=github&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=2563EB" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=Dikshantk29&hide_border=true&background=0F172A&ring=2563EB&fire=38BDF8&currStreakLabel=E2E8F0&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dikshantk29&show_icons=true&hide_border=true&rank_icon=github&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=2563EB"[...]
+<img src="https://streak-stats.demolab.com/?user=Dikshantk29&hide_border=true&background=0F172A&ring=2563EB&fire=38BDF8&currStreakLabel=E2E8F0&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8[...]
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshantk29&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" height="150"/>
 
